@@ -1,0 +1,10 @@
+Ye content daalo aur save karo:
+```
+model/best_model.pkl
+static/analysis.png
+database/*.db
+.vscode/
+__pycache__/
+*.pyc
+venv/
+.env
