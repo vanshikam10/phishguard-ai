@@ -18,7 +18,7 @@
 
 <br/>
 
-[🚀 Live Demo](#) · [📖 How It Works](#how-it-works) · [🐛 Report Bug](../../issues) · [⭐ Star This Repo](#)
+[🚀 Live Demo](https://phishguard-ai-jj6k.onrender.com) · [📖 How It Works](#how-it-works) · [🐛 Report Bug](../../issues) · [⭐ Star This Repo](#)
 
 <br/>
 
