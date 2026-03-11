@@ -1,0 +1,81 @@
+{
+  "results": {
+    "Logistic Regression": {
+      "accuracy": 100.0,
+      "precision": 100.0,
+      "recall": 100.0,
+      "f1": 100.0,
+      "roc_auc": 100.0,
+      "cm": [
+        [
+          800,
+          0
+        ],
+        [
+          0,
+          800
+        ]
+      ],
+      "cv_f1_mean": 100.0,
+      "cv_f1_std": 0.0
+    },
+    "Random Forest": {
+      "accuracy": 100.0,
+      "precision": 100.0,
+      "recall": 100.0,
+      "f1": 100.0,
+      "roc_auc": 100.0,
+      "cm": [
+        [
+          800,
+          0
+        ],
+        [
+          0,
+          800
+        ]
+      ],
+      "cv_f1_mean": 100.0,
+      "cv_f1_std": 0.0
+    },
+    "Gradient Boosting": {
+      "accuracy": 100.0,
+      "precision": 100.0,
+      "recall": 100.0,
+      "f1": 100.0,
+      "roc_auc": 100.0,
+      "cm": [
+        [
+          800,
+          0
+        ],
+        [
+          0,
+          800
+        ]
+      ],
+      "cv_f1_mean": 100.0,
+      "cv_f1_std": 0.0
+    },
+    "XGBoost": {
+      "accuracy": 100.0,
+      "precision": 100.0,
+      "recall": 100.0,
+      "f1": 100.0,
+      "roc_auc": 100.0,
+      "cm": [
+        [
+          800,
+          0
+        ],
+        [
+          0,
+          800
+        ]
+      ],
+      "cv_f1_mean": 100.0,
+      "cv_f1_std": 0.0
+    }
+  },
+  "best_model": "Logistic Regression"
+}
