@@ -354,7 +354,7 @@ GET /model-stats
 
 ### Vanshika Mittal
 
-🎓 BTech Final Year Student | 💻 Developer | 🛡️ Cybersecurity Enthusiast
+🎓 BTech Final Year Student | 💻 Developer | 
 
 [![GitHub](https://img.shields.io/badge/GitHub-VanshikaMittal-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
 
